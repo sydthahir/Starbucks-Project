@@ -150,9 +150,26 @@ nav
          box-sizing: border-box;
         max-width: 1292.31px;
         
+}
+.button1:hover{
+    background-color: rgb(252, 229, 102);
+    transition: all;
+
+}
+#button2:hover{
+    background-color: rgb(37, 78, 37);
+    transition: all; 
     
 
-    }
+}
+#button3:hover{
+    background-color: rgb(170, 37, 99);
+    transition: all; 
+    
+
+}
+
+
     .banner-text h1{
         margin-bottom: 20px;
         margin-top: 60px;
