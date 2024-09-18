@@ -76,7 +76,16 @@ nav
     font-size: 14px;
     text-decoration: none;
     margin-top: 20px;
-  
+   
+}
+.right_nav a:hover{
+    color: green;
+    transition: all;
+
+}
+.right_nav img:hover{
+    color: green;
+    transition: all;
 }
 /* right nav button */
 
